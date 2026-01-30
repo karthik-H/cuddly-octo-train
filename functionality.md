@@ -3,7 +3,7 @@
 This document describes what the application does today, from a business user perspective.
 
 ---
-
+ 
 ## What the app is
 
 Event Manager lets you create and manage **events**. Each event has a title and description, and you can **assign people** to an event. The list of people you can assign comes from an external source https://jsonplaceholder.typicode.com/; the app does not let you create or manage those people—only choose who is assigned to each event.
