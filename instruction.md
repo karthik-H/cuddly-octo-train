@@ -105,5 +105,5 @@ Output will be in `frontend/dist`. Serve that folder with any static file server
 | 4 | Open **http://localhost:5173** in the browser | — |
 
 Backend: **http://localhost:8853**  
-Frontend: **http://localhost:5173**  
+Frontend: **http://localhost:5173**   
 Database: **SQLite** at `backend/events.db` (default).
