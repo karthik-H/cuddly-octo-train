@@ -1,2 +1,2 @@
-# effective-computing-machine
+# effective-computing-machine 
 Event management task.
